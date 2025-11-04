@@ -1,0 +1,5 @@
+{
+  "name": "trung",
+  "description": "Một ứng dụng để tạo âm thanh từ văn bản bằng API Chuyển văn bản thành giọng nói của Google Gemini. Bạn có thể phát và tải xuống âm thanh đã tạo.",
+  "requestFramePermissions": []
+}
